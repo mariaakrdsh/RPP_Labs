@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RPP_OpenMP", "RPP_OpenMP\RPP_OpenMP.vcxproj", "{8A38EA49-34C8-4E7C-AF05-E8E322E01300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A38EA49-34C8-4E7C-AF05-E8E322E01300}.Debug|x64.ActiveCfg = Debug|x64
+		{8A38EA49-34C8-4E7C-AF05-E8E322E01300}.Debug|x64.Build.0 = Debug|x64
+		{8A38EA49-34C8-4E7C-AF05-E8E322E01300}.Debug|x86.ActiveCfg = Debug|Win32
+		{8A38EA49-34C8-4E7C-AF05-E8E322E01300}.Debug|x86.Build.0 = Debug|Win32
+		{8A38EA49-34C8-4E7C-AF05-E8E322E01300}.Release|x64.ActiveCfg = Release|x64
+		{8A38EA49-34C8-4E7C-AF05-E8E322E01300}.Release|x64.Build.0 = Release|x64
+		{8A38EA49-34C8-4E7C-AF05-E8E322E01300}.Release|x86.ActiveCfg = Release|Win32
+		{8A38EA49-34C8-4E7C-AF05-E8E322E01300}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A69E2DBA-12B2-4D25-B1DA-A5DC092E2C7B}
+	EndGlobalSection
+EndGlobal

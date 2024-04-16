@@ -1,0 +1,4 @@
+﻿  RPP_OpenMP.cpp
+C:\Users\NITRO5\Downloads\RPP_OpenMP\RPP_OpenMP\RPP_OpenMP.cpp(10,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\NITRO5\Downloads\RPP_OpenMP\RPP_OpenMP\RPP_OpenMP.cpp(43,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  RPP_OpenMP.vcxproj -> C:\Users\NITRO5\Downloads\RPP_OpenMP\x64\Debug\RPP_OpenMP.exe
